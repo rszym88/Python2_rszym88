@@ -13,3 +13,4 @@ HW:
     Scale the image up by 2, 5, 10, & plus odd number
 """
 
+print("Hello")
